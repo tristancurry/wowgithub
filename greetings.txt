@@ -3,7 +3,7 @@ Hi everybody!
 This document exists for you to clone and change.
 
 
-This text might cromtain a deliferate mistale. If you can finb it please correct ti!
+This text might cromtain a deliferate mistake. If you can finb it please correct ti!
 
 
 Please categorise some foods:
@@ -12,7 +12,7 @@ GOOD FOODS
 
 Lasagna
 
-
+Ice cream
 
 
 BAD FOODS
